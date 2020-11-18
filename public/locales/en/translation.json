@@ -1,0 +1,20 @@
+{
+  "cityList": {
+    "title1": "Moscow",
+    "title2": "New York",
+    "title3": "Berlin",
+    "title4": "Copenhagen",
+    "title5": "Zurich"
+  },
+  "question": "Enter city",
+  "menuWeather": "What the weather",
+  "menuHistory": "Search history",
+  "langRu": "Ru",
+  "langEng": "Eng",
+  "city": "City",
+  "temperature": "temperature",
+  "date": "date",
+  "wind speed": "wind speed",
+  "pressure": "pressure",
+  "alert": "enter a valid city"
+}
